@@ -1,6 +1,6 @@
 package main
 
-// vc v2
+// changed to v4
 import (
 	"bufio"
 	//"errors"
