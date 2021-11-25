@@ -1,7 +1,11 @@
 package main
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 // changed to v4
+=======
+// vc v4
+>>>>>>> 5af18dbd19c8a105efbb21fc5914e19503ce354c
 =======
 // vc v4
 >>>>>>> 5af18dbd19c8a105efbb21fc5914e19503ce354c
