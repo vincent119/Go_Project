@@ -1,6 +1,6 @@
 package main
 
-// vc v1
+// vc v2
 import (
 	"bufio"
 	//"errors"
